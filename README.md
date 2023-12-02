@@ -10,3 +10,5 @@ It drives me insane that eBay defaults to showing results from all over the glob
 All this script does is append the `&LH_PrefLoc=1` parameter to the search results page URL and then reloads the page, so you only see results from UK. I've not tested it with any other eBay sites but I'd imagine that parameter is universal. So you can probably just swap the listing results page URL in the `@match` section at the top, to make it work on your own country's eBay site.
 
 TLDR: Fuck you eBay.
+
+Available for direct install from GreasyFork: https://greasyfork.org/en/scripts/481260-this-is-a-local-shop-for-local-people
